@@ -1,0 +1,20 @@
+{
+  "name": "securityone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "images-scraper": "^5.0.7",
+    "kms": "^1.0.0",
+    "moment": "^2.29.1",
+    "mongoose": "^5.11.8",
+    "ms": "^2.1.3",
+    "reconlx": "^1.0.52"
+  }
+}
